@@ -23,6 +23,6 @@ public class Input {
         in.close();
 
         // ... Display output
-        System.out.println("Your INFO " + degree + batch + section + id);
+        System.out.println("Your  INFO " + degree + batch + section + id);
     }
 }
